@@ -4,6 +4,12 @@
 
 - [Pragmatic Engineer - Data Structures & Algorithms I Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 
+## Databases
+
+### Indexes
+
+- [jon.chrt.dev - Things you didn't know about indexes](https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html)
+
 ## Networking
 
 - [Cloudflare - What is caching?](https://www.cloudflare.com/learning/cdn/what-is-caching/)
