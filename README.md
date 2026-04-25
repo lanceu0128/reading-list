@@ -25,10 +25,18 @@
 - [Cloudflare - What is the network layer?](https://www.cloudflare.com/learning/network-layer/what-is-the-network-layer/)
 - [Cloudflare - What is Anycast?](https://www.cloudflare.com/learning/cdn/glossary/anycast-network/)
 
+Network Virtualization: 
+
+- [RedHat - What is software-defined networking?](https://www.redhat.com/en/topics/hyperconverged-infrastructure/what-is-software-defined-networking)
+
 ### Case Study - Cloudflare
 
-- [Cloudflare - Eliminating Cold Starts with Cloudflare Workers](https://blog.cloudflare.com/eliminating-cold-starts-with-cloudflare-workers/)
 - [Cloudflare - Load Balancing without Load Balancers](https://blog.cloudflare.com/cloudflares-architecture-eliminating-single-p/)
+
+Cloudflare Workers:
+
+- [Cloudflare - Cloud Computing without Containers](https://blog.cloudflare.com/cloud-computing-without-containers/)
+- [Cloudflare - Eliminating Cold Starts with Cloudflare Workers](https://blog.cloudflare.com/eliminating-cold-starts-with-cloudflare-workers/)
 
 ## Distributed Systems
 
@@ -41,7 +49,11 @@
 ### Case Study - Google
 
 - [The Morning Paper - The Google File System](https://blog.acolyer.org/2014/10/30/the-google-file-system/)
+
+Container-oriented cluster management:
+
 - [The Morning Paper - Large-scale cluster management with Borg](https://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)
+- [Kubernetes - Borg: The Predecessor to Kubernetes](https://kubernetes.io/blog/2015/04/borg-predecessor-to-kubernetes/)
 
 ## Business
 
