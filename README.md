@@ -4,6 +4,10 @@
 
 - [Pragmatic Engineer - Data Structures & Algorithms I Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 
+## Low-Level Systems
+
+- [Larst of Us - The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)
+
 ## Databases
 
 ### Indexes
