@@ -28,6 +28,7 @@
 
 - [Cloudflare - What is the network layer?](https://www.cloudflare.com/learning/network-layer/what-is-the-network-layer/)
 - [Cloudflare - What is Anycast?](https://www.cloudflare.com/learning/cdn/glossary/anycast-network/)
+- [Stonecharioteer on Tech](https://tech.stonecharioteer.com/posts/2026/traceroute/)
 
 Network Virtualization: 
 
