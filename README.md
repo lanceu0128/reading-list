@@ -14,6 +14,10 @@
 
 - [jon.chrt.dev - Things you didn't know about indexes](https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html)
 
+## Frontend Development
+
+- [Christoph Nakazawa - Building a JavaScript Testing Framework](https://cpojer.net/posts/building-a-javascript-testing-framework)
+
 ## Networking
 
 - [Cloudflare - What is caching?](https://www.cloudflare.com/learning/cdn/what-is-caching/)
