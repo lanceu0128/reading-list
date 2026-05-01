@@ -64,6 +64,10 @@ Container-oriented cluster management:
 - [The Morning Paper - Large-scale cluster management with Borg](https://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)
 - [Kubernetes - Borg: The Predecessor to Kubernetes](https://kubernetes.io/blog/2015/04/borg-predecessor-to-kubernetes/)
 
+### Case Study - Voice Agents
+
+- [Nick Tikhonov, How I built a sub-500ms latency voice agent from scratch](https://www.ntik.me/posts/voice-agent)
+
 ## Workflows
 
 - [Ally Piechowski - The Git Commands I Run Before Reading Any Code](https://piechowski.io/post/git-commands-before-reading-code/)
