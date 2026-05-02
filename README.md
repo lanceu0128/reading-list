@@ -55,14 +55,15 @@ Cloudflare Workers:
 
 - [AWS - Timeouts, retries, and backoff with jitter](https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter/)
 
+### Cluster Management
+
+- [Anant Jain - Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](https://www.anantjain.xyz/posts/mesos)
+- [The Morning Paper - Large-scale cluster management with Borg](https://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)
+- [Kubernetes - Borg: The Predecessor to Kubernetes](https://kubernetes.io/blog/2015/04/borg-predecessor-to-kubernetes/)
+
 ### Case Study - Google
 
 - [The Morning Paper - The Google File System](https://blog.acolyer.org/2014/10/30/the-google-file-system/)
-
-Container-oriented cluster management:
-
-- [The Morning Paper - Large-scale cluster management with Borg](https://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)
-- [Kubernetes - Borg: The Predecessor to Kubernetes](https://kubernetes.io/blog/2015/04/borg-predecessor-to-kubernetes/)
 
 ### Case Study - Voice Agents
 
