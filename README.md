@@ -59,7 +59,9 @@ Cloudflare Workers:
 
 - [Anant Jain - Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](https://www.anantjain.xyz/posts/mesos)
 - [The Morning Paper - Large-scale cluster management with Borg](https://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)
+- [Anant Jain - Omega: flexible, scalable schedulers for large compute clusters](https://www.anantjain.xyz/posts/omega)
 - [Kubernetes - Borg: The Predecessor to Kubernetes](https://kubernetes.io/blog/2015/04/borg-predecessor-to-kubernetes/)
+- [Anant Jain - Borg, Omega, and Kubernetes](https://www.anantjain.xyz/posts/borg-omega-kubernetes)
 
 ### Case Study - Google
 
