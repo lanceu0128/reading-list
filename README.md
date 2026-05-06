@@ -38,6 +38,11 @@
 - [Cloudflare - What is Anycast?](https://www.cloudflare.com/learning/cdn/glossary/anycast-network/)
 - [Stonecharioteer on Tech - Understanding Traceroute](https://tech.stonecharioteer.com/posts/2026/traceroute/)
 
+Load Balancing:
+
+- [The Morning Paper - Maglev: A Fast and Reliable Software Network Load Balancer](https://blog.acolyer.org/2016/03/21/maglev-a-fast-and-reliable-software-network-load-balancer/)
+- [Cloudflare - High Availability Load Balancers with Maglev](https://blog.cloudflare.com/high-availability-load-balancers-with-maglev/)
+
 Network Virtualization: 
 
 - [RedHat - What is software-defined networking?](https://www.redhat.com/en/topics/hyperconverged-infrastructure/what-is-software-defined-networking)
