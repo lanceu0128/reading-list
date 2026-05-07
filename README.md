@@ -26,6 +26,7 @@
 
 - [Cloudflare - What is caching?](https://www.cloudflare.com/learning/cdn/what-is-caching/)
 - [Cloudflare - What is latency?](https://www.cloudflare.com/learning/performance/glossary/what-is-latency/)
+- [Cloudflare - What is a DDoS attack?](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/)
 
 ### Application Layer
 
@@ -46,6 +47,8 @@ Load Balancing:
 Network Virtualization: 
 
 - [RedHat - What is software-defined networking?](https://www.redhat.com/en/topics/hyperconverged-infrastructure/what-is-software-defined-networking)
+
+Multicast:
 
 ### Case Study - Cloudflare
 
