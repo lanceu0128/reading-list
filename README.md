@@ -73,6 +73,6 @@ Outcasts that don't quite fit in (yet).
 - [Julia Evans - Who pays to educate developers?](https://jvns.ca/blog/2018/09/01/who-pays-to-educate-developers-/)
 - [Martin Kleppmann - Writing a book: is it worth it?](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html)
 
-### Workflows:
+### Workflows
 - [Ally Piechowski - The Git Commands I Run Before Reading Any Code](https://piechowski.io/post/git-commands-before-reading-code/)
 
