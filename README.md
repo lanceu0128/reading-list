@@ -55,21 +55,21 @@ A collection of computer science and software engineering articles that I found 
 
 Outcasts that don't quite fit in (yet).
 
-### Databases:
+### Databases
 - [jon.chrt.dev - Things you didn't know about indexes](https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html)
 - [OpenAI - Scaling PostgreSQL to power 800 million ChatGPT users](https://openai.com/index/scaling-postgresql/)
 
 ### Data Structures & Algorithms
 - [Pragmatic Engineer - Data Structures & Algorithms I Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 
-### Optimization:
+### Optimization
 - [Larst of Us - The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)
 - [Platformatic - We cut Node.js' Memory in half](https://blog.platformatic.dev/we-cut-nodejs-memory-in-half)
 
-### Frontend Development:
+### Frontend Development
 - [Christoph Nakazawa - Building a JavaScript Testing Framework](https://cpojer.net/posts/building-a-javascript-testing-framework)
 
-### Developer Education:
+### Developer Education
 - [Julia Evans - Who pays to educate developers?](https://jvns.ca/blog/2018/09/01/who-pays-to-educate-developers-/)
 - [Martin Kleppmann - Writing a book: is it worth it?](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html)
 
