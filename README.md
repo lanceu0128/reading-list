@@ -67,6 +67,7 @@ Outcasts that don't quite fit in (yet).
 - [Platformatic - We cut Node.js' Memory in half](https://blog.platformatic.dev/we-cut-nodejs-memory-in-half)
 
 ### Frontend Development
+- [Josh W. Comeau - Making Sense of Server Components](https://www.joshwcomeau.com/react/server-components/)
 - [Christoph Nakazawa - Building a JavaScript Testing Framework](https://cpojer.net/posts/building-a-javascript-testing-framework)
 
 ### Developer Education
