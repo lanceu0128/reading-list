@@ -68,6 +68,7 @@ Outcasts that don't quite fit in (yet).
 
 ### JavaScript / TypeScript
 - [Josh W. Comeau - The “const” Deception](https://www.joshwcomeau.com/javascript/the-const-deception/)
+- [Josh W. Comeau - Promises From The Ground Up](https://www.joshwcomeau.com/javascript/promises/)
 
 ### Frontend Development
 - [Josh W. Comeau - Making Sense of Server Components](https://www.joshwcomeau.com/react/server-components/)
