@@ -73,6 +73,7 @@ Outcasts that don't quite fit in (yet).
 ### Frontend Development
 - [Josh W. Comeau - Making Sense of Server Components](https://www.joshwcomeau.com/react/server-components/)
 - [Christoph Nakazawa - Building a JavaScript Testing Framework](https://cpojer.net/posts/building-a-javascript-testing-framework)
+- [TkDodo's Blog - Concurrent Optimistic Updates in React Query](https://tkdodo.eu/blog/concurrent-optimistic-updates-in-react-query)
 
 ### Developer Education
 - [Julia Evans - Who pays to educate developers?](https://jvns.ca/blog/2018/09/01/who-pays-to-educate-developers-/)
