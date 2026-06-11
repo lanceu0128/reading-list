@@ -4,8 +4,9 @@ A collection of computer science and software engineering articles that I found 
 
 ## Networking
 
-- [Cloudflare - What is caching?](https://www.cloudflare.com/learning/cdn/what-is-caching/)
 - [Cloudflare - What is latency?](https://www.cloudflare.com/learning/performance/glossary/what-is-latency/)
+- [Cloudflare - What is caching?](https://www.cloudflare.com/learning/cdn/what-is-caching/)
+- [Cloudflare - What is Anycast?](https://www.cloudflare.com/learning/cdn/glossary/anycast-network/)
 - [Cloudflare - What is a DDoS attack?](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/)
 
 ### Application Layer
@@ -16,7 +17,7 @@ A collection of computer science and software engineering articles that I found 
 ### Network Layer
 
 - [Cloudflare - What is the network layer?](https://www.cloudflare.com/learning/network-layer/what-is-the-network-layer/)
-- [Cloudflare - What is Anycast?](https://www.cloudflare.com/learning/cdn/glossary/anycast-network/)
+- [Cloudflare - What is IGMP?](https://www.cloudflare.com/learning/network-layer/what-is-igmp/)
 - [Stonecharioteer on Tech - Understanding Traceroute](https://tech.stonecharioteer.com/posts/2026/traceroute/)
 - [RedHat - What is software-defined networking?](https://www.redhat.com/en/topics/hyperconverged-infrastructure/what-is-software-defined-networking)
 
@@ -50,6 +51,7 @@ A collection of computer science and software engineering articles that I found 
 ### Storage Systems
 
 - [The Morning Paper - The Google File System](https://blog.acolyer.org/2014/10/30/the-google-file-system/)
+- [Cloudflare - Workers Durable Objects Beta: A New Approach to Stateful Serverless](https://blog.cloudflare.com/introducing-workers-durable-objects/)
 
 ## Other
 
