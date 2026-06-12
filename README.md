@@ -8,6 +8,7 @@ A collection of computer science and software engineering articles that I found 
 - [Cloudflare - What is caching?](https://www.cloudflare.com/learning/cdn/what-is-caching/)
 - [Cloudflare - What is Anycast?](https://www.cloudflare.com/learning/cdn/glossary/anycast-network/)
 - [Cloudflare - What is a DDoS attack?](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/)
+- [Google Cloud - Global Network Principles and Innovations](https://cloud.google.com/blog/products/networking/google-global-network-principles-and-innovations)
 
 ### Application Layer
 
@@ -29,11 +30,8 @@ A collection of computer science and software engineering articles that I found 
 
 ## Distributed Systems
 
-### Latency & Availability
-
 - [The Morning Paper - The Tail at Scale](https://blog.acolyer.org/2015/01/15/the-tail-at-scale/)
 - [AWS - Timeouts, retries, and backoff with jitter](https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter/)
-- [Nick Tikhonov - How I built a sub-500ms latency voice agent from scratch](https://www.ntik.me/posts/voice-agent)
 
 ### Cluster Management
 
@@ -52,6 +50,11 @@ A collection of computer science and software engineering articles that I found 
 
 - [The Morning Paper - The Google File System](https://blog.acolyer.org/2014/10/30/the-google-file-system/)
 - [Cloudflare - Workers Durable Objects Beta: A New Approach to Stateful Serverless](https://blog.cloudflare.com/introducing-workers-durable-objects/)
+
+### System Design
+
+- [Nick Tikhonov - How I built a sub-500ms latency voice agent from scratch](https://www.ntik.me/posts/voice-agent)
+- [AWS - Building a high-performance exchange market data broadcasting platform on AWS](https://aws.amazon.com/blogs/networking-and-content-delivery/building-a-high-performance-exchange-market-data-broadcasting-platform-on-aws/)
 
 ## Other
 
