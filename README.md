@@ -74,6 +74,7 @@ Outcasts that don't quite fit in (yet).
 ### JavaScript / TypeScript
 - [Josh W. Comeau - The “const” Deception](https://www.joshwcomeau.com/javascript/the-const-deception/)
 - [Josh W. Comeau - Promises From The Ground Up](https://www.joshwcomeau.com/javascript/promises/)
+- [matklad - TypeScript is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
 
 ### Frontend Development
 - [Josh W. Comeau - Making Sense of Server Components](https://www.joshwcomeau.com/react/server-components/)
