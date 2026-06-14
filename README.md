@@ -74,6 +74,7 @@ Outcasts that don't quite fit in (yet).
 ### Optimization
 - [Larst of Us - The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)
 - [Platformatic - We cut Node.js' Memory in half](https://blog.platformatic.dev/we-cut-nodejs-memory-in-half)
+- [Marvin Hagemeister - Speeding up the JavaScript ecosystem - Semver](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-12/)
 
 ### JavaScript / TypeScript
 - [Josh W. Comeau - The “const” Deception](https://www.joshwcomeau.com/javascript/the-const-deception/)
