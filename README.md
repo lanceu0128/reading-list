@@ -5,10 +5,14 @@ A collection of computer science and software engineering articles that I found 
 ## Networking
 
 - [Cloudflare - What is latency?](https://www.cloudflare.com/learning/performance/glossary/what-is-latency/)
-- [Cloudflare - What is caching?](https://www.cloudflare.com/learning/cdn/what-is-caching/)
 - [Cloudflare - What is Anycast?](https://www.cloudflare.com/learning/cdn/glossary/anycast-network/)
 - [Cloudflare - What is a DDoS attack?](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/)
 - [Google Cloud - Global Network Principles and Innovations](https://cloud.google.com/blog/products/networking/google-global-network-principles-and-innovations)
+
+### Caching / CDNs
+
+- [Cloudflare - What is caching?](https://www.cloudflare.com/learning/cdn/what-is-caching/)
+- [Cloudflare - “Look, Ma, no probes!” — Characterizing CDNs’ latencies with passive measurement](https://blog.cloudflare.com/cdn-latency-passive-measurement/)
 
 ### Application Layer
 
