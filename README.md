@@ -4,10 +4,11 @@ A collection of computer science and software engineering articles that I found 
 
 ## Networking
 
+- [APNIC - 21 years and counting of ‘eight fallacies of distributed computing’](https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/)
+- [Google Cloud - Global Network Principles and Innovations](https://cloud.google.com/blog/products/networking/google-global-network-principles-and-innovations)
 - [Cloudflare - What is latency?](https://www.cloudflare.com/learning/performance/glossary/what-is-latency/)
 - [Cloudflare - What is Anycast?](https://www.cloudflare.com/learning/cdn/glossary/anycast-network/)
 - [Cloudflare - What is a DDoS attack?](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/)
-- [Google Cloud - Global Network Principles and Innovations](https://cloud.google.com/blog/products/networking/google-global-network-principles-and-innovations)
 
 ### Caching / CDNs
 
