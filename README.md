@@ -82,6 +82,8 @@ Outcasts that don't quite fit in (yet).
 - [matklad - TypeScript is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
 
 ### Frontend Development
+
+- [Josh W. Comeau - Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
 - [Josh W. Comeau - Making Sense of Server Components](https://www.joshwcomeau.com/react/server-components/)
 - [Christoph Nakazawa - Building a JavaScript Testing Framework](https://cpojer.net/posts/building-a-javascript-testing-framework)
 - [TkDodo's Blog - Concurrent Optimistic Updates in React Query](https://tkdodo.eu/blog/concurrent-optimistic-updates-in-react-query)
