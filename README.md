@@ -89,6 +89,10 @@ Outcasts that don't quite fit in (yet).
 - [Christoph Nakazawa - Building a JavaScript Testing Framework](https://cpojer.net/posts/building-a-javascript-testing-framework)
 - [TkDodo's Blog - Concurrent Optimistic Updates in React Query](https://tkdodo.eu/blog/concurrent-optimistic-updates-in-react-query)
 
+### Web Security
+
+- [eva - how we owned almost all of america's fast food chains](https://eva.ac/blog/chattr/)
+
 ### Developer Education
 - [Julia Evans - Who pays to educate developers?](https://jvns.ca/blog/2018/09/01/who-pays-to-educate-developers-/)
 - [Martin Kleppmann - Writing a book: is it worth it?](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html)
