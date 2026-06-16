@@ -34,6 +34,7 @@ A collection of computer science and software engineering articles that I found 
 
 - [The Morning Paper - The Tail at Scale](https://blog.acolyer.org/2015/01/15/the-tail-at-scale/)
 - [APNIC - 21 years and counting of ‘eight fallacies of distributed computing’](https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/)
+- [Google - A low-carbon computing platform from your retired phones](https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/)
 
 ### Cluster Management
 
@@ -102,3 +103,7 @@ Outcasts that don't quite fit in (yet).
 ### Developer Education
 - [Julia Evans - Who pays to educate developers?](https://jvns.ca/blog/2018/09/01/who-pays-to-educate-developers-/)
 - [Martin Kleppmann - Writing a book: is it worth it?](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html)
+
+### Philosophy of Technology
+
+- [the Garden of Forking Paths - Some Questions Concerning Technology](https://gardenforkingpaths.blogspot.com/2011/11/some-questions-concerning-technology.html)
