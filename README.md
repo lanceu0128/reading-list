@@ -65,6 +65,10 @@ A collection of computer science and software engineering articles that I found 
 
 Outcasts that don't quite fit in (yet).
 
+## Compilers
+
+- [Calle Luks - The Four Stages of Compiling a C Program](https://www.calleluks.com/the-four-stages-of-compiling-a-c-program/)
+
 ### Databases
 - [jon.chrt.dev - Things you didn't know about indexes](https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html)
 - [OpenAI - Scaling PostgreSQL to power 800 million ChatGPT users](https://openai.com/index/scaling-postgresql/)
