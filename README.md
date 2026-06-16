@@ -4,12 +4,9 @@ A collection of computer science and software engineering articles that I found 
 
 ## Networking
 
-- [APNIC - 21 years and counting of ‘eight fallacies of distributed computing’](https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/)
 - [Google Cloud - Global Network Principles and Innovations](https://cloud.google.com/blog/products/networking/google-global-network-principles-and-innovations)
 - [Cloudflare - What is latency?](https://www.cloudflare.com/learning/performance/glossary/what-is-latency/)
-- [Cloudflare - What is Anycast?](https://www.cloudflare.com/learning/cdn/glossary/anycast-network/)
-- [Cloudflare - What is a DDoS attack?](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/)
-
+  
 ### Caching / CDNs
 
 - [Cloudflare - What is caching?](https://www.cloudflare.com/learning/cdn/what-is-caching/)
@@ -36,7 +33,7 @@ A collection of computer science and software engineering articles that I found 
 ## Distributed Systems
 
 - [The Morning Paper - The Tail at Scale](https://blog.acolyer.org/2015/01/15/the-tail-at-scale/)
-- [AWS - Timeouts, retries, and backoff with jitter](https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter/)
+- [APNIC - 21 years and counting of ‘eight fallacies of distributed computing’](https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/)
 
 ### Cluster Management
 
@@ -61,6 +58,29 @@ A collection of computer science and software engineering articles that I found 
 - [Nick Tikhonov - How I built a sub-500ms latency voice agent from scratch](https://www.ntik.me/posts/voice-agent)
 - [AWS - Building a high-performance exchange market data broadcasting platform on AWS](https://aws.amazon.com/blogs/networking-and-content-delivery/building-a-high-performance-exchange-market-data-broadcasting-platform-on-aws/)
 
+## Web Applications
+
+### JavaScript / TypeScript
+
+- [Josh W. Comeau - The “const” Deception](https://www.joshwcomeau.com/javascript/the-const-deception/)
+- [Josh W. Comeau - Promises From The Ground Up](https://www.joshwcomeau.com/javascript/promises/)
+- [matklad - TypeScript is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
+
+### JavaScript Tooling
+
+- [Platformatic - We cut Node.js' Memory in half](https://blog.platformatic.dev/we-cut-nodejs-memory-in-half)
+- [Marvin Hagemeister - Speeding up the JavaScript ecosystem - Semver](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-12/)
+
+### Frontend Development
+
+- [Josh W. Comeau - Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
+- [Josh W. Comeau - Making Sense of Server Components](https://www.joshwcomeau.com/react/server-components/)
+- [TkDodo's Blog - Concurrent Optimistic Updates in React Query](https://tkdodo.eu/blog/concurrent-optimistic-updates-in-react-query)
+
+### Web Security
+
+- [eva - how we owned almost all of america's fast food chains](https://eva.ac/blog/chattr/)
+
 ## Other
 
 Outcasts that don't quite fit in (yet).
@@ -78,29 +98,7 @@ Outcasts that don't quite fit in (yet).
 
 ### Optimization
 - [Larst of Us - The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)
-- [Platformatic - We cut Node.js' Memory in half](https://blog.platformatic.dev/we-cut-nodejs-memory-in-half)
-- [Marvin Hagemeister - Speeding up the JavaScript ecosystem - Semver](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-12/)
-
-### JavaScript / TypeScript
-- [Josh W. Comeau - The “const” Deception](https://www.joshwcomeau.com/javascript/the-const-deception/)
-- [Josh W. Comeau - Promises From The Ground Up](https://www.joshwcomeau.com/javascript/promises/)
-- [matklad - TypeScript is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
-
-### Frontend Development
-
-- [Josh W. Comeau - Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
-- [Josh W. Comeau - Making Sense of Server Components](https://www.joshwcomeau.com/react/server-components/)
-- [Christoph Nakazawa - Building a JavaScript Testing Framework](https://cpojer.net/posts/building-a-javascript-testing-framework)
-- [TkDodo's Blog - Concurrent Optimistic Updates in React Query](https://tkdodo.eu/blog/concurrent-optimistic-updates-in-react-query)
-
-### Web Security
-
-- [eva - how we owned almost all of america's fast food chains](https://eva.ac/blog/chattr/)
 
 ### Developer Education
 - [Julia Evans - Who pays to educate developers?](https://jvns.ca/blog/2018/09/01/who-pays-to-educate-developers-/)
 - [Martin Kleppmann - Writing a book: is it worth it?](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html)
-
-### Workflows
-- [Ally Piechowski - The Git Commands I Run Before Reading Any Code](https://piechowski.io/post/git-commands-before-reading-code/)
-
