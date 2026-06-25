@@ -36,7 +36,7 @@ Organized by technical domain. Favorites marked with ✨.
 
 - [The Morning Paper - The Tail at Scale](https://blog.acolyer.org/2015/01/15/the-tail-at-scale/)
 - [APNIC - 21 years and counting of ‘eight fallacies of distributed computing’](https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/)
-- [Google - A low-carbon computing platform from your retired phones](https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/)
+- [Marc's Blog - What is Scalability Anyway?](https://brooker.co.za/blog/2024/01/18/scalability.html)
 
 ### Cluster Management
 
@@ -55,6 +55,7 @@ Organized by technical domain. Favorites marked with ✨.
 
 - [The Morning Paper - The Google File System](https://blog.acolyer.org/2014/10/30/the-google-file-system/)
 - [All Things Distributed - Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html) ✨
+- [Marc's Blog - Erasure Coding versus Tail Latency](https://brooker.co.za/blog/2023/01/06/erasure.html)
 - [Cloudflare - Workers Durable Objects Beta: A New Approach to Stateful Serverless](https://blog.cloudflare.com/introducing-workers-durable-objects/)
 
 ### System Design
