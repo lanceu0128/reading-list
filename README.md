@@ -1,6 +1,8 @@
 # Reading List
 
-A collection of computer science and software engineering articles that I found interesting! Organized by technical domain.
+A collection of computer science and software engineering articles that I found interesting! 
+
+Organized by technical domain. Favorites marked with ✨.
 
 ## Networking
 
@@ -28,7 +30,7 @@ A collection of computer science and software engineering articles that I found 
 
 - [The Morning Paper - Maglev: A Fast and Reliable Software Network Load Balancer](https://blog.acolyer.org/2016/03/21/maglev-a-fast-and-reliable-software-network-load-balancer/)
 - [Cloudflare - High Availability Load Balancers with Maglev](https://blog.cloudflare.com/high-availability-load-balancers-with-maglev/)
-- [Cloudflare - Load Balancing without Load Balancers](https://blog.cloudflare.com/cloudflares-architecture-eliminating-single-p/)
+- [Cloudflare - Load Balancing without Load Balancers](https://blog.cloudflare.com/cloudflares-architecture-eliminating-single-p/) ✨
 
 ## Distributed Systems
 
@@ -39,20 +41,20 @@ A collection of computer science and software engineering articles that I found 
 ### Cluster Management
 
 - [Anant Jain - Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](https://www.anantjain.xyz/posts/mesos)
-- [The Morning Paper - Large-scale cluster management with Borg](https://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)
+- [The Morning Paper - Large-scale cluster management with Borg](https://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/) ✨
 - [Anant Jain - Omega: flexible, scalable schedulers for large compute clusters](https://www.anantjain.xyz/posts/omega)
 - [Kubernetes - Borg: The Predecessor to Kubernetes](https://kubernetes.io/blog/2015/04/borg-predecessor-to-kubernetes/)
 - [Anant Jain - Borg, Omega, and Kubernetes](https://www.anantjain.xyz/posts/borg-omega-kubernetes)
 
 ### Serverless Computing
 
-- [Cloudflare - Cloud Computing without Containers](https://blog.cloudflare.com/cloud-computing-without-containers/)
+- [Cloudflare - Cloud Computing without Containers](https://blog.cloudflare.com/cloud-computing-without-containers/) ✨
 - [Cloudflare - Eliminating Cold Starts with Cloudflare Workers](https://blog.cloudflare.com/eliminating-cold-starts-with-cloudflare-workers/)
 
 ### Storage Systems
 
 - [The Morning Paper - The Google File System](https://blog.acolyer.org/2014/10/30/the-google-file-system/)
-- [All Things Distributed - Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
+- [All Things Distributed - Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html) ✨
 - [Cloudflare - Workers Durable Objects Beta: A New Approach to Stateful Serverless](https://blog.cloudflare.com/introducing-workers-durable-objects/)
 
 ### System Design
@@ -70,14 +72,14 @@ A collection of computer science and software engineering articles that I found 
 
 ### JavaScript Tooling
 
-- [Platformatic - We cut Node.js' Memory in half](https://blog.platformatic.dev/we-cut-nodejs-memory-in-half)
+- [Platformatic - We cut Node.js' Memory in half](https://blog.platformatic.dev/we-cut-nodejs-memory-in-half) ✨
 - [Marvin Hagemeister - Speeding up the JavaScript ecosystem - Semver](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-12/)
 
 ### Frontend Development
 
 - [Josh W. Comeau - Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
 - [Josh W. Comeau - Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
-- [Josh W. Comeau - Making Sense of Server Components](https://www.joshwcomeau.com/react/server-components/)
+- [Josh W. Comeau - Making Sense of Server Components](https://www.joshwcomeau.com/react/server-components/) ✨
 - [TkDodo's Blog - Concurrent Optimistic Updates in React Query](https://tkdodo.eu/blog/concurrent-optimistic-updates-in-react-query)
 
 ### Web Security
