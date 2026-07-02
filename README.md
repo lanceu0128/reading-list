@@ -62,8 +62,11 @@ Organized by technical domain. Favorites marked with ✨.
 
 - [Nick Tikhonov - How I built a sub-500ms latency voice agent from scratch](https://www.ntik.me/posts/voice-agent)
 - [AWS - Building a high-performance exchange market data broadcasting platform on AWS](https://aws.amazon.com/blogs/networking-and-content-delivery/building-a-high-performance-exchange-market-data-broadcasting-platform-on-aws/)
+- [Google Cloud - Building Scalable Real Time Applications with Firestore](https://cloud.google.com/blog/products/databases/building-scalable-real-time-applications-with-firestore)
 
 ## Web Applications
+
+- [Josh W. Comeau - Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
 
 ### JavaScript / TypeScript
 
@@ -96,6 +99,7 @@ Outcasts that don't quite fit in (yet).
 - [Calle Luks - The Four Stages of Compiling a C Program](https://www.calleluks.com/the-four-stages-of-compiling-a-c-program/)
 
 ### Databases
+- [PlanetScale - Processes and Threads](https://planetscale.com/blog/processes-and-threads)
 - [Clickhouse - OLTP vs. OLAP](https://clickhouse.com/resources/engineering/oltp-vs-olap)
 - [jon.chrt.dev - Things you didn't know about indexes](https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html)
 - [PlanetScale - Database Sharding](https://planetscale.com/blog/database-sharding)
