@@ -24,7 +24,7 @@ Organized by technical domain. Favorites marked with ✨.
 - [Cloudflare - What is the network layer?](https://www.cloudflare.com/learning/network-layer/what-is-the-network-layer/)
 - [Cloudflare - What is IGMP?](https://www.cloudflare.com/learning/network-layer/what-is-igmp/)
 - [Stonecharioteer on Tech - Understanding Traceroute](https://tech.stonecharioteer.com/posts/2026/traceroute/)
-- [RedHat - What is software-defined networking?](https://www.redhat.com/en/topics/hyperconverged-infrastructure/what-is-software-defined-networking)
+- [gekk.info - Traceroute isn't real](https://gekk.info/articles/traceroute.htm)
 
 ### Load Balancing
 
