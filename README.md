@@ -77,7 +77,7 @@ Organized by technical domain. Favorites marked with ✨.
 ### JavaScript Tooling
 
 - [Platformatic - We cut Node.js' Memory in half](https://blog.platformatic.dev/we-cut-nodejs-memory-in-half) ✨
-- [Marvin Hagemeister - Speeding up the JavaScript ecosystem - Semver](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-12/)
+- [Bun - Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust)
 
 ### Frontend Development
 
