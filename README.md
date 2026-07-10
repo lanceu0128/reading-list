@@ -81,6 +81,7 @@ Organized by technical domain. Favorites marked with ✨.
 
 ### Frontend Development
 
+- [React - Keeping Components Pure](https://react.dev/learn/keeping-components-pure)
 - [Josh W. Comeau - Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
 - [Josh W. Comeau - Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
 - [Josh W. Comeau - Making Sense of Server Components](https://www.joshwcomeau.com/react/server-components/) ✨
@@ -94,9 +95,11 @@ Organized by technical domain. Favorites marked with ✨.
 
 Outcasts that don't quite fit in (yet).
 
-### Compilers
+### C / C++
 
 - [Calle Luks - The Four Stages of Compiling a C Program](https://www.calleluks.com/the-four-stages-of-compiling-a-c-program/)
+- [Shahar Mike's Web Spot - C++ vtables - Part 1 - Basics](https://shaharmike.com/cpp/vtable-part1/)
+- [Shahar Mike's Web Spot - C++ vtables - Part 4 - C++ vtables - Part 4 - Compiler-Generated Code](https://shaharmike.com/cpp/vtable-part4/)
 
 ### Databases
 - [PlanetScale - Processes and Threads](https://planetscale.com/blog/processes-and-threads)
