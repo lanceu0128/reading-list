@@ -99,7 +99,7 @@ Outcasts that don't quite fit in (yet).
 
 - [Calle Luks - The Four Stages of Compiling a C Program](https://www.calleluks.com/the-four-stages-of-compiling-a-c-program/)
 - [Shahar Mike's Web Spot - C++ vtables - Part 1 - Basics](https://shaharmike.com/cpp/vtable-part1/)
-- [Shahar Mike's Web Spot - C++ vtables - Part 4 - C++ vtables - Part 4 - Compiler-Generated Code](https://shaharmike.com/cpp/vtable-part4/)
+- [Shahar Mike's Web Spot - C++ vtables - Part 4 - Compiler-Generated Code](https://shaharmike.com/cpp/vtable-part4/)
 
 ### Databases
 - [PlanetScale - Processes and Threads](https://planetscale.com/blog/processes-and-threads)
