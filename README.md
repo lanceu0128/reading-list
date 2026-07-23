@@ -105,7 +105,7 @@ Outcasts that don't quite fit in (yet).
 ### Databases
 - [PlanetScale - Processes and Threads](https://planetscale.com/blog/processes-and-threads)
 - [Clickhouse - OLTP vs. OLAP](https://clickhouse.com/resources/engineering/oltp-vs-olap)
-- [jon.chrt.dev - Things you didn't know about indexes](https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html)
+- [PlanetScale - B-Trees and Database Indexes](https://planetscale.com/blog/btrees-and-database-indexes)
 - [PlanetScale - Database Sharding](https://planetscale.com/blog/database-sharding)
 - [OpenAI - Scaling PostgreSQL to power 800 million ChatGPT users](https://openai.com/index/scaling-postgresql/)
 - [PlanetScale - Database Transactions](https://planetscale.com/blog/database-transactions)
