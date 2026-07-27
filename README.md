@@ -54,6 +54,7 @@ Organized by technical domain. Favorites marked with ✨.
 ### Storage Systems
 
 - [PlanetScale - IO devices and latency](https://planetscale.com/blog/io-devices-and-latency) ✨
+- [Backblaze - The Life and Times of a Backblaze Hard Drive](https://www.backblaze.com/blog/life-and-times-of-a-backblaze-hard-drive/) ✨
 - [The Morning Paper - The Google File System](https://blog.acolyer.org/2014/10/30/the-google-file-system/)
 - [All Things Distributed - Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html) ✨
 - [Marc's Blog - Erasure Coding versus Tail Latency](https://brooker.co.za/blog/2023/01/06/erasure.html)
