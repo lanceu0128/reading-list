@@ -78,6 +78,7 @@ Organized by technical domain. Favorites marked with ✨.
 
 ### JavaScript Tooling
 
+- [Sanyam Jain -  CORS: What is it protecting?](https://sanyamserver.online/posts/cors/)
 - [Platformatic - We cut Node.js' Memory in half](https://blog.platformatic.dev/we-cut-nodejs-memory-in-half) ✨
 - [Bun - Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust)
 
@@ -88,10 +89,6 @@ Organized by technical domain. Favorites marked with ✨.
 - [Josh W. Comeau - Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
 - [Josh W. Comeau - Making Sense of Server Components](https://www.joshwcomeau.com/react/server-components/) ✨
 - [TkDodo's Blog - Concurrent Optimistic Updates in React Query](https://tkdodo.eu/blog/concurrent-optimistic-updates-in-react-query)
-
-### Web Security
-
-- [eva - how we owned almost all of america's fast food chains](https://eva.ac/blog/chattr/)
 
 ## Other
 
