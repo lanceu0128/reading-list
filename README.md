@@ -82,6 +82,12 @@ Organized by technical domain. Favorites marked with ✨.
 - [Platformatic - We cut Node.js' Memory in half](https://blog.platformatic.dev/we-cut-nodejs-memory-in-half) ✨
 - [Bun - Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust)
 
+### Backend API Design
+
+- [Stripe - Designing robust and predictable APIs with idempotency](https://stripe.com/blog/idempotency)
+- [Stripe - Scaling your API with rate limiters](https://stripe.com/blog/rate-limiters)
+- [Stripe - APIs as infrastructure: future-proofing Stripe with versioning](https://stripe.com/blog/api-versioning)
+
 ### Frontend Development
 
 - [React - Keeping Components Pure](https://react.dev/learn/keeping-components-pure)
