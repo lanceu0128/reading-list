@@ -51,24 +51,41 @@ Organized by technical domain. Favorites marked with ✨.
 - [Cloudflare - Cloud Computing without Containers](https://blog.cloudflare.com/cloud-computing-without-containers/) ✨
 - [Cloudflare - Eliminating Cold Starts with Cloudflare Workers](https://blog.cloudflare.com/eliminating-cold-starts-with-cloudflare-workers/)
 
-### Storage Systems
-
-- [PlanetScale - IO devices and latency](https://planetscale.com/blog/io-devices-and-latency) ✨
-- [Backblaze - The Life and Times of a Backblaze Hard Drive](https://www.backblaze.com/blog/life-and-times-of-a-backblaze-hard-drive/) ✨
-- [The Morning Paper - The Google File System](https://blog.acolyer.org/2014/10/30/the-google-file-system/)
-- [All Things Distributed - Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html) ✨
-- [Marc's Blog - Erasure Coding versus Tail Latency](https://brooker.co.za/blog/2023/01/06/erasure.html)
-- [Cloudflare - Workers Durable Objects Beta: A New Approach to Stateful Serverless](https://blog.cloudflare.com/introducing-workers-durable-objects/)
-
 ### System Design
 
 - [Nick Tikhonov - How I built a sub-500ms latency voice agent from scratch](https://www.ntik.me/posts/voice-agent)
 - [AWS - Building a high-performance exchange market data broadcasting platform on AWS](https://aws.amazon.com/blogs/networking-and-content-delivery/building-a-high-performance-exchange-market-data-broadcasting-platform-on-aws/)
 - [Google Cloud - Building Scalable Real Time Applications with Firestore](https://cloud.google.com/blog/products/databases/building-scalable-real-time-applications-with-firestore)
 
-## Web Applications
+## Databases and Storage
 
-- [Josh W. Comeau - Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
+- [Clickhouse - OLTP vs. OLAP](https://clickhouse.com/resources/engineering/oltp-vs-olap)
+
+### Database Internals
+
+- [PlanetScale - Processes and Threads](https://planetscale.com/blog/processes-and-threads)
+- [PlanetScale - B-Trees and Database Indexes](https://planetscale.com/blog/btrees-and-database-indexes)
+- [PlanetScale - Database Transactions](https://planetscale.com/blog/database-transactions)
+
+### Storage Systems
+
+- [The Morning Paper - The Google File System](https://blog.acolyer.org/2014/10/30/the-google-file-system/)
+- [All Things Distributed - Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html) ✨
+- [Marc's Blog - Erasure Coding versus Tail Latency](https://brooker.co.za/blog/2023/01/06/erasure.html)
+- [Cloudflare - Workers Durable Objects Beta: A New Approach to Stateful Serverless](https://blog.cloudflare.com/introducing-workers-durable-objects/)
+
+### Distributed Databases 
+
+- [PlanetScale - Database Sharding](https://planetscale.com/blog/database-sharding)
+- [PlanetScale - MySQL replication: Best practices and considerations](https://planetscale.com/blog/mysql-replication-best-practices-and-considerations)
+- [PlanetScale - PlanetScale vs Amazon Aurora replication](https://planetscale.com/blog/planetscale-vs-aws-aurora-replication)
+
+### Storage Hardware & I/O
+
+- [PlanetScale - IO devices and latency](https://planetscale.com/blog/io-devices-and-latency) ✨
+- [Backblaze - The Life and Times of a Backblaze Hard Drive](https://www.backblaze.com/blog/life-and-times-of-a-backblaze-hard-drive/) ✨
+
+## Web Applications
 
 ### JavaScript / TypeScript
 
@@ -76,13 +93,13 @@ Organized by technical domain. Favorites marked with ✨.
 - [Josh W. Comeau - Promises From The Ground Up](https://www.joshwcomeau.com/javascript/promises/)
 - [matklad - TypeScript is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
 
-### JavaScript Tooling
+### Web Platform & Runtimes
 
 - [Sanyam Jain -  CORS: What is it protecting?](https://sanyamserver.online/posts/cors/)
 - [Platformatic - We cut Node.js' Memory in half](https://blog.platformatic.dev/we-cut-nodejs-memory-in-half) ✨
 - [Bun - Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust)
 
-### Backend API Design
+### Backend Development
 
 - [Stripe - Designing robust and predictable APIs with idempotency](https://stripe.com/blog/idempotency)
 - [Stripe - Scaling your API with rate limiters](https://stripe.com/blog/rate-limiters)
@@ -90,6 +107,7 @@ Organized by technical domain. Favorites marked with ✨.
 
 ### Frontend Development
 
+- [Josh W. Comeau - Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
 - [React - Keeping Components Pure](https://react.dev/learn/keeping-components-pure)
 - [Josh W. Comeau - Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
 - [Josh W. Comeau - Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
@@ -106,16 +124,6 @@ Outcasts that don't quite fit in (yet).
 - [Shahar Mike's Web Spot - C++ vtables - Part 1 - Basics](https://shaharmike.com/cpp/vtable-part1/)
 - [Shahar Mike's Web Spot - C++ vtables - Part 4 - Compiler-Generated Code](https://shaharmike.com/cpp/vtable-part4/)
 
-### Databases
-- [PlanetScale - Processes and Threads](https://planetscale.com/blog/processes-and-threads)
-- [Clickhouse - OLTP vs. OLAP](https://clickhouse.com/resources/engineering/oltp-vs-olap)
-- [PlanetScale - B-Trees and Database Indexes](https://planetscale.com/blog/btrees-and-database-indexes)
-- [PlanetScale - Database Sharding](https://planetscale.com/blog/database-sharding)
-- [OpenAI - Scaling PostgreSQL to power 800 million ChatGPT users](https://openai.com/index/scaling-postgresql/)
-- [PlanetScale - Database Transactions](https://planetscale.com/blog/database-transactions)
-- [PlanetScale - MySQL replication: Best practices and considerations](https://planetscale.com/blog/mysql-replication-best-practices-and-considerations)
-- [PlanetScale - PlanetScale vs Amazon Aurora replication](https://planetscale.com/blog/planetscale-vs-aws-aurora-replication)
-
 ### Data Structures & Algorithms
 - [Pragmatic Engineer - Data Structures & Algorithms I Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 
@@ -125,7 +133,3 @@ Outcasts that don't quite fit in (yet).
 ### Developer Education
 - [Julia Evans - Who pays to educate developers?](https://jvns.ca/blog/2018/09/01/who-pays-to-educate-developers-/)
 - [Martin Kleppmann - Writing a book: is it worth it?](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html)
-
-### Philosophy of Technology
-
-- [the Garden of Forking Paths - Some Questions Concerning Technology](https://gardenforkingpaths.blogspot.com/2011/11/some-questions-concerning-technology.html)
