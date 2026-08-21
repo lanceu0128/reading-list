@@ -113,6 +113,8 @@ Outcasts that don't quite fit in (yet).
 - [PlanetScale - Database Sharding](https://planetscale.com/blog/database-sharding)
 - [OpenAI - Scaling PostgreSQL to power 800 million ChatGPT users](https://openai.com/index/scaling-postgresql/)
 - [PlanetScale - Database Transactions](https://planetscale.com/blog/database-transactions)
+- [PlanetScale - MySQL replication: Best practices and considerations](https://planetscale.com/blog/mysql-replication-best-practices-and-considerations)
+- [PlanetScale - PlanetScale vs Amazon Aurora replication](https://planetscale.com/blog/planetscale-vs-aws-aurora-replication)
 
 ### Data Structures & Algorithms
 - [Pragmatic Engineer - Data Structures & Algorithms I Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
