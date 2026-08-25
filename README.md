@@ -77,8 +77,11 @@ Organized by technical domain. Favorites marked with ✨.
 ### Distributed Databases 
 
 - [PlanetScale - Database Sharding](https://planetscale.com/blog/database-sharding)
+- [PlanetScale - Sharding vs. partitioning: What’s the difference?](https://planetscale.com/blog/sharding-vs-partitioning-whats-the-difference)
 - [PlanetScale - MySQL replication: Best practices and considerations](https://planetscale.com/blog/mysql-replication-best-practices-and-considerations)
 - [PlanetScale - PlanetScale vs Amazon Aurora replication](https://planetscale.com/blog/planetscale-vs-aws-aurora-replication)
+- [Stripe - How Stripe uses graph search and state machines to auto-remediate a global database fleet](https://stripe.dev/blog/how-stripe-uses-graph-search-and-state-machines-to-auto-remediate-a-global-database-fleet)
+- [PlanetScale - Distributed caching systems and MySQL](https://planetscale.com/blog/distributed-caching-systems-and-mysql)
 
 ### Storage Hardware & I/O
 
