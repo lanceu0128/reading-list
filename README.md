@@ -102,11 +102,16 @@ Organized by technical domain. Favorites marked with ✨.
 - [Platformatic - We cut Node.js' Memory in half](https://blog.platformatic.dev/we-cut-nodejs-memory-in-half) ✨
 - [Bun - Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust)
 
-### Backend Development
+### Backend API Design
 
 - [Stripe - Designing robust and predictable APIs with idempotency](https://stripe.com/blog/idempotency)
 - [Stripe - Scaling your API with rate limiters](https://stripe.com/blog/rate-limiters)
 - [Stripe - APIs as infrastructure: future-proofing Stripe with versioning](https://stripe.com/blog/api-versioning)
+
+### Background Jobs / Queues
+
+- [Devesh Shetty - Object Storage as a Queue: When the Wrong Tool Is Right](https://deveshshetty.com/blog/object-storage-queue/)
+- [PlanetScale - Keeping a Postgres queue healthy](https://planetscale.com/blog/keeping-a-postgres-queue-healthy)
 
 ### Frontend Development
 
