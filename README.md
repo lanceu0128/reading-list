@@ -18,6 +18,7 @@ Organized by technical domain. Favorites marked with ✨.
 
 - [Cloudflare - What is HTTP?](https://www.cloudflare.com/learning/ddos/glossary/hypertext-transfer-protocol-http/)
 - [Cloudflare - What is DNS?](https://www.cloudflare.com/learning/dns/what-is-dns/)
+- [Leandro Moreira - How video works](https://howvideo.works/)
 
 ### Network Layer
 
