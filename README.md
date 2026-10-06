@@ -52,6 +52,12 @@ Organized by technical domain. Favorites marked with ✨.
 - [Cloudflare - Cloud Computing without Containers](https://blog.cloudflare.com/cloud-computing-without-containers/) ✨
 - [Cloudflare - Eliminating Cold Starts with Cloudflare Workers](https://blog.cloudflare.com/eliminating-cold-starts-with-cloudflare-workers/)
 
+### Testing and Verification
+
+- [Antithesis - Deterministic simulation testing](https://antithesis.com/docs/resources/deterministic_simulation_testing/)
+- [Antithesis - Hypothesis, Antithesis, synthesis](https://antithesis.com/blog/2026/hegel/)
+- [Antithesis - Solving Zelda with the Antithesis SDK](https://antithesis.com/blog/zelda/)
+
 ### System Design
 
 - [Nick Tikhonov - How I built a sub-500ms latency voice agent from scratch](https://www.ntik.me/posts/voice-agent)
