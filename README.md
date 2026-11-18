@@ -67,6 +67,7 @@ Organized by technical domain. Favorites marked with ✨.
 ## Databases and Storage
 
 - [Clickhouse - OLTP vs. OLAP](https://clickhouse.com/resources/engineering/oltp-vs-olap)
+- [PlanetScale - On Benchmarking](https://planetscale.com/blog/on-benchmarking)
 
 ### Database Internals
 
